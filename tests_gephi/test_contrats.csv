@@ -1,0 +1,18 @@
+ID;Source;Target;Year;Industry;Intended Investment;Currency;Date;Type of document;Document name;Document Cloud link;Company Notice;Document Notice;Accounting firm;Story 1 link;Story 1 text;Story 2 link;Story 2 text;Story 3 link;Story 3 text;Story 4 link;Story 4 text;Story 5 link;Story 5 text
+1;1;10;2009;Manufacturing;;;06/08/2009;Tax ruling;;http://www.documentcloud.org/documents/1345247-2pct-2009-tax-ruling.html;;;PricewaterhouseCoopers;;;;;;;;;;
+2;2;11;2009;"Finance;Tech;Manufacturing";;;15/07/2009;Tax ruling;;http://www.documentcloud.org/documents/1345249-3i-2009-tax-ruling.html;;;PricewaterhouseCoopers;;;;;;;;;;
+2;2;12;2009;"Finance;Tech;Manufacturing";;;15/07/2009;Tax ruling;;http://www.documentcloud.org/documents/1345249-3i-2009-tax-ruling.html;;;PricewaterhouseCoopers;;;;;;;;;;
+3;2;11;2010;"Finance;Tech;Manufacturing";;;04/06/2010;Tax ruling;;http://www.documentcloud.org/documents/1345254-3i-2010-tax-ruling.html;;;PricewaterhouseCoopers;;;;;;;;;;
+3;2;12;2010;"Finance;Tech;Manufacturing";;;04/06/2010;Tax ruling;;http://www.documentcloud.org/documents/1345254-3i-2010-tax-ruling.html;;;PricewaterhouseCoopers;;;;;;;;;;
+4;2;11;2010;"Finance;Tech;Manufacturing";;;10/03/2010;Tax ruling;;http://www.documentcloud.org/documents/1345255-3i-2010-tax-ruling.html;;;PricewaterhouseCoopers;;;;;;;;;;
+4;2;12;2010;"Finance;Tech;Manufacturing";;;10/03/2010;Tax ruling;;http://www.documentcloud.org/documents/1345255-3i-2010-tax-ruling.html;;;PricewaterhouseCoopers;;;;;;;;;;
+5;5;13;2009;Health;50 billion;USD;N/A;Tax ruling;;http://www.documentcloud.org/documents/1345259-abbott-laboratories-2009-tax-ruling.html;;;PricewaterhouseCoopers;;;;;;;;;;
+5;5;14;2009;Health;50 billion;USD;N/A;Tax ruling;;http://www.documentcloud.org/documents/1345259-abbott-laboratories-2009-tax-ruling.html;;;PricewaterhouseCoopers;;;;;;;;;;
+5;5;16;2009;Health;50 billion;USD;N/A;Tax ruling;;http://www.documentcloud.org/documents/1345259-abbott-laboratories-2009-tax-ruling.html;;;PricewaterhouseCoopers;;;;;;;;;;
+5;5;15;2009;Health;50 billion;USD;N/A;Tax ruling;;http://www.documentcloud.org/documents/1345259-abbott-laboratories-2009-tax-ruling.html;;;PricewaterhouseCoopers;;;;;;;;;;
+6;5;13;2009;Health;3.69 billion;USD;25/11/2009;Tax ruling;;http://www.documentcloud.org/documents/1345261-abbott-laboratories-2009-tax-ruling.html;;;PricewaterhouseCoopers;;;;;;;;;;
+6;5;16;2009;Health;3.69 billion;USD;25/11/2009;Tax ruling;;http://www.documentcloud.org/documents/1345261-abbott-laboratories-2009-tax-ruling.html;;;PricewaterhouseCoopers;;;;;;;;;;
+7;7;17;2009;Finance;;;21/09/2009;Tax ruling;;https://www.documentcloud.org/documents/1353218-abn-amro-group-2009-tax-ruling.html;;;PricewaterhouseCoopers;;;;;;;;;;
+7;7;18;2009;Finance;;;21/09/2009;Tax ruling;;https://www.documentcloud.org/documents/1353218-abn-amro-group-2009-tax-ruling.html;;;PricewaterhouseCoopers;;;;;;;;;;
+7;7;19;2009;Finance;;;21/09/2009;Tax ruling;;https://www.documentcloud.org/documents/1353218-abn-amro-group-2009-tax-ruling.html;;;PricewaterhouseCoopers;;;;;;;;;;
+8;9;20;2008;Finance;;;05/12/2008;Tax ruling;;http://www.documentcloud.org/documents/1345262-abris-capital-partners-2008-tax-ruling.html;;;PricewaterhouseCoopers;;;;;;;;;;

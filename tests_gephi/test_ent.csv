@@ -1,0 +1,18 @@
+ID;Name;Parent Company;Countries;Industry
+1;2PCT;;A;Manufacturing
+2;3i;;B;"Finance;Tech;Manufacturing"
+5;Abbott Laboratories;;B;Health
+7;ABN Amro Group;;C;Finance
+8;Abris Capital Partners;;A;Finance
+9;Abris Cee Mid-market Fund;8;C;Finance
+10;2pct.lu;;D;
+11;Mold-Masters Luxembourg Holdings S.à.r.l.;;D;
+12;Mold-Masters Luxembourg Acquisitions S.à.r.l.;;D;
+13;Abbott Investments Luxembourg S.à.r.l.;;D;
+14;Abbott Overseas Luxembourg S.à.r.l.;;D;
+15;Abbott Holding Subsidiary (Gibraltar) Limited Luxembourg S.C.S.;;D;
+16;Abbott International Luxembourg S.à.r.l.;;D;
+17;ABN Amro Bank (Luxembourg) S.A.;;D;
+18;RBS Global Banking (Luxembourg) S.A.;;D;
+19;Lux-Irl Investments No 1 S.A.;;D;
+20;Alu Holdings S.à.r.l.;;D;

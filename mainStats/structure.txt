@@ -1,0 +1,32 @@
+                 Table « public.luxleaks »
+        Colonne         |       Type        | Modificateurs 
+------------------------+-------------------+---------------
+ id                     | integer           | non NULL
+ company                | character varying | 
+ parentcompany          | character varying | 
+ year                   | integer           | 
+ countries              | character varying | 
+ luxembourgsubsidiaries | character varying | 
+ industry               | character varying | 
+ intendinvestment       | character varying | 
+ currency               | character varying | 
+ etad                   | character varying | 
+ typeofdocument         | character varying | 
+ documentname           | character varying | 
+ documentcloudlink      | character varying | 
+ companynotice          | character varying | 
+ documentnotice         | character varying | 
+ accountingfirm         | character varying | 
+ story1link             | character varying | 
+ story1text             | character varying | 
+ story2link             | character varying | 
+ story2text             | character varying | 
+ story3link             | character varying | 
+ story3text             | character varying | 
+ story4link             | character varying | 
+ story4text             | character varying | 
+ story5link             | character varying | 
+ story5text             | character varying | 
+Index :
+    "luxleaks_pkey" PRIMARY KEY, btree (id)
+
