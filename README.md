@@ -1,12 +1,10 @@
 # Luxembourg leaks for Gephi
 
 ## Attention please
-- projet réalisé dans le cadre de l'UV IC05 au Printemps 2015
-- Maxime Margerin
-- [Henry Nomichith](http://henry.nomichith.fr/)
-- much Perl, very Gephi, wow
+- projet réalisé dans le cadre de l'UV IC05 au Printemps 2015 par Maxime Margerin et [Henry Nomichith](http://henry.nomichith.fr/)
 - le code est sous licence MIT et les documents produits autour (site web compris) sous licence CC-BY
-- voir aussi le [site du projet](http://wwwetu.utc.fr/~mmargeri/luxleaks)
+- voir aussi le [site du projet](http://maximool.github.io/ic05) (anciennement [ici](http://wwwetu.utc.fr/~mmargeri/luxleaks))
+- le projet a été repris à l'occasion de sa migration sur GitHub (l'ancien dépôt se trouve [ici](https://gitlab.utc.fr/mmargeri/ic05))
 
 ## Sources
 - les métadonnées structurées (.csv) se trouvent [ici](http://iw-files.s3.amazonaws.com/apps/2014/12/luxleaks/data/20141209_LuxembourgLeaks.csv.zip)
@@ -36,7 +34,7 @@
 	* année (cf. attribut supérieur) ?
 	* type du document
 	* URL stories
-	
+
 - les contrats et les entreprises sont en relation
 - pour ce qui est de la condition temporelle : c'est un peu lourd pour Gephi, il faut toujours une date de début. On a décidé de travailler à l'échelle du mois
 - TODO : mettre un svg de l'UML sur le dépôt
